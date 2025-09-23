@@ -1,15 +1,5 @@
-# Excel_Portfolio
+# Excel-Portfolio
+## Myntra Sales Analysis Dashboard
+An engaging Excel Dashboard designed to analyze Myntra’s sales and customer data. It showcases sales patterns, trends among customers in different states & cities in India with the means of interactive visuals & charts.
 
-Created an interactive Excel Dashboard which analyses Customer Loans data.
-Performed operations such as :-
-1.  Data Cleaning & Formating to ensure data quality.
-2.  Merging Customer data with Loans Data using advanced excel functions such as Xlookup & IndexMatch to ensure a single unified reference.
-3.  Analysing the data & finding insights & hidden patterns.
-4.  Presented necessary insights with the help of different visuallization such as Date(month) timlines used as a filter for flexible data views.
-5.  Line Charts for for viewing overall trends of loan amounts.
-6.  Bar charts to identify the Top-5 customers & Loan distribution by gender.
-7.  Different Slicers like; Employement Type | Marital Status | Loan Type.
-
-The project solely focuses on shocassing how data analysis can be used to find hidden trends & patterns within the data to enable data driven descions supported by different visualizations such as graphs & charts to nake businesses more profitable.
-
-Thank You!
+Explore full project: [Myntra Sales Analysis](https://onedrive.live.com/:x:/g/personal/B9F6477EA7AE7F1F/EbMWlEJEko1KjnV-0CWmICMB60SC_jSd1m-PdvYW0StXCw?resid=B9F6477EA7AE7F1F!s429416b392444a8d8e757ed025a62023&ithint=file%2Cxlsx&e=uA9jFl&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9iOWY2NDc3ZWE3YWU3ZjFmL0ViTVdsRUpFa28xS2puVi0wQ1dtSUNNQjYwU0NfalNkMW0tUGR2WVcwU3RYQ3c_ZT11QTlqRmw) 🗂️
