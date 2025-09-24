@@ -4,7 +4,7 @@ An engaging Excel Dashboard designed to analyze Myntra’s sales and customer da
 
 ### 1) Screenshots (Preview) 🖼️
 <p align="center">
-  <img src="https://github.com/vermaaditya01/Excel_Portfolio/blob/main/Project%20Snapshots/Dashboard_image.png" />
+  <img src="https://github.com/vermaaditya01/Excel_Portfolio/blob/main/Project%20Snapshots/Dashboard%20Image.png" />
 </p>
 
 ### 2) Objective 🎯
@@ -30,5 +30,32 @@ Myntra wants to enhance customer retention and maximize sales revenue by underst
 Without these insights, Myntra risks losing customers to competitors and missing growth opportunities in a highly competitive fashion e-commerce market.
 
 ### 6) Key Features & Visuals ✨
+   - **KPI Cards (Total Sales, Total Orders, Average Rating, Average Discount):** Shows quick performance summary.
+
+   - **Slicers:** Allows filtering by Year, Month, Sub-category, Color, Brans Name for interactive exploration.
+
+   - **Line Chart (Quarterly Sales Trend):** Tracks sales growth and fluctuations across quarters to identify demand patterns.
+
+   - **Funnel Chart (Customers by Rating):** Displays customer satisfaction levels across 2–5 star ratings.
+
+   - **Bar Chart (State-wise Customer Count):** Highlights top states by customer volume, showing regional distribution.
+
+   - **Bar Chart (Top-5 Products by Sales):** Ranks best-performing products in terms of revenue generated.
+
+   - **DonutChart (Product Distribution by Category):** Illustrates the contribution of Men, Women, Kids, and Beauty categories to overall sales.
+
 ### 7) Key Insights 🔎
-### 8) Use Case 💡
+  - Total Sales of **₹1878.7K** generated from **3,500** orders, with an average rating of **3.98**.
+
+  - High discount rate (**36%**) indicates strong reliance on price cuts to drive sales.
+
+  - Top-performing states include **Gujarat**, **Punjab** & **Uttar Pradesh** while states like **Telangana** & **Chhattisgarh** remain under-penetrated.
+
+  - **Jeans**, **Shorts** & **T-Shirts** dominate sales, showing customer preference for casual wear.
+
+  - Customer ratings skew positive (majority **4–5** stars), but a notable chunk of **2–3** star reviews highlights room for experience improvement.
+
+  - Quarterly sales trend is inconsistent, reflecting seasonality & possible gaps in demand forecasting.
+
+  - **Men** & **Women’s** categories lead while **Kids** & **Beauty** have relatively smaller contributions.
+
