@@ -4,7 +4,7 @@ An engaging Excel Dashboard designed to analyze Myntra’s sales and customer da
 
 ### 1) Screenshots (Preview) 🖼️
 <p align="center">
-  <img src="https://github.com/vermaaditya01/Excel_Portfolio/blob/main/Project%20Snapshots/Dashboard%20Image.png" />
+  <img src="https://github.com/vermaaditya01/Excel_Portfolio/blob/main/Project%20Snapshot/Dashboard%20Image.png" />
 </p>
 
 ### 2) Objective 🎯
