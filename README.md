@@ -32,7 +32,7 @@ Without these insights, Myntra risks losing customers to competitors and missing
 ### 6) Key Features & Visuals ✨
    - **KPI Cards (Total Sales, Total Orders, Average Rating, Average Discount):** Shows quick performance summary.
 
-   - **Slicers:** Allows filtering by Year, Month, Sub-category, Color, Brans Name for interactive exploration.
+   - **Slicers:** Allows filtering by Year, Month, Sub-category, Color, Brand Name, Age for interactive exploration.
 
    - **Line Chart (Quarterly Sales Trend):** Tracks sales growth and fluctuations across quarters to identify demand patterns.
 
