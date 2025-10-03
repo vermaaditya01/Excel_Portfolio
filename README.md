@@ -1,4 +1,4 @@
-# Excel-Portfolio
+
 ## Myntra Sales Analysis Dashboard
 An engaging Excel Dashboard designed to analyze Myntra’s sales and customer data. It showcases sales patterns, trends among customers in different states & cities in India with the means of interactive visuals & charts.
 
